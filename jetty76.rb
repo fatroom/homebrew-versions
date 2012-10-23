@@ -1,6 +1,6 @@
 require 'formula'
 
-class Jetty < Formula
+class Jetty76 < Formula
   homepage 'http://www.eclipse.org/jetty/'
   url 'http://download.eclipse.org/jetty/stable-7/dist/jetty-distribution-7.6.7.v20120910.tar.gz'
   version '7.6.7'
